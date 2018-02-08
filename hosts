@@ -1,16 +1,7 @@
 web		ansible_host=192.168.1.78 
-#docker		ansible_host=192.168.1.61 
-#jenkins	ansible_host=192.168.1.54
 MGMT001-DC01	1ansible_host=192.168.1.60
 
 [web]
 web
-
-#[docker]
-#docker
-
 [ansible]
 MGMT001-DC01
-
-#[jenkins]
-#jenkins4
